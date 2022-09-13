@@ -18,7 +18,7 @@ const Projects = () => {
             {/* first project */}
             <div className="box">
               <div className="icon">
-                {/* <!-- <i className="fas fa-desktop"></i> --> */}
+                 {/* <i className="fas fa-desktop"></i>  */}
                 <img
                   className="imgs"
                   src={h}
