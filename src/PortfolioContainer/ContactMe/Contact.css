@@ -4,7 +4,8 @@
 }
 
 .contact-header{
-    padding-top: 20px;
+    margin-top: -130px;
+    padding-top: 0px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -42,7 +43,7 @@
 
 .contactDetails{
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     display: flex;
     justify-content: center;
 }

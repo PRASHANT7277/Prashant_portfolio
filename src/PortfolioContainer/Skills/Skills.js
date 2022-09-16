@@ -5,6 +5,7 @@ import  {GiSkills} from 'react-icons/gi';
 import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
 import  {FaReact} from 'react-icons/fa';
 import  {RiGitBranchLine} from 'react-icons/ri'
+import Calendar from '../Calendar/Calendar';
 
 export default function Skills() {
   return (
@@ -21,7 +22,7 @@ export default function Skills() {
                 <div className='skillBox skillbox1'>
                     <div className='sillIcon'><ImHtmlFive color='red'/></div>
                     <div className='skillTitle'>Web Technologies</div>
-                    <div className='skillInfo'>HTML, CSS, JavaScript</div>
+                    <div className='skillInfo'>HTML, CSS, JavaScript, npm, heroku</div>
                 </div>
                 <div className='skillBox skillbox2'>
                     <div className='sillIcon'><FaReact /></div>
@@ -51,7 +52,10 @@ export default function Skills() {
                     <div className='skillInfo'>GitHub, Git, Postman</div>
                 </div>
             </div>
+            
         </div>
+        {/* <Calendar/> */}
+       
     </div>
   )
 }

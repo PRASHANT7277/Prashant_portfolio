@@ -65,15 +65,16 @@ export default function Navbar() {
                     <Link to="About" spy={true} smooth={true} offset={0} duration={500} >
                         About
                     </Link>
-                 
+
+                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
+                        Skills
+                    </Link>
+                    
                     <Link to="Projects" spy={true} smooth={true} offset={0} duration={500}>
                         Projects
                     </Link>
                  
-                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
-                        Skills
-                    </Link>
-                 
+                    
                     <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
                         Contact
                     </Link>
@@ -91,15 +92,16 @@ export default function Navbar() {
                         About
                     </Link>
                  
+                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
+                        Skills
+                    </Link>
+                    
                     <Link to="Projects" spy={true} smooth={true} offset={0} duration={500}>
                         Projects
                     </Link>
                  
-                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
-                        Skills
-                    </Link>
-                 
-                    <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
+                    
+                     <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
                         Contact
                     </Link>
                 </div>
