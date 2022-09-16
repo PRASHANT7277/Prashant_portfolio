@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-import Navbar from './Componets/Navbar';
-import Home from './Componets/Home';
-import About from './Componets/About';
-import Skills from './Componets/Skills';
-import Projects from './Componets/Projects';
-import Footer from './Componets/Footer';
-import Contacts from './Componets/Contects';
+import "./App.css";
+import Home from "./PortfolioContainer/Home/Home"
+import About from "./PortfolioContainer/AboutMe/About";
+import Navbar from "./PortfolioContainer/Navbar/Navbar";
+import Resume from "./PortfolioContainer/Resume/Resume";
+import Contact from "./PortfolioContainer/ContactMe/Contact";
+import Project from "./PortfolioContainer/Project/Project";
+import Footer from "./PortfolioContainer/Footer/Footer";
+import Skills from "./PortfolioContainer/Skills/Skills";
 
 function App() {
   return (
     <div className="App">
-     <Navbar/>
-     <Home/>
-     <About/>
-     <Skills/>
-     <Projects/>
-     <Contacts/>
-     <Footer/>
+        <Navbar/>
+        <Home/>
+        <About/>
+        {/* <Resume/> */}
+        <Project/>
+        <Skills/>
+        <Contact/>
+        <Footer/>
     </div>
   );
 }
