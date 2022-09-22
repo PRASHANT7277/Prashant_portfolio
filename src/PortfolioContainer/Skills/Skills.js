@@ -6,7 +6,7 @@ import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
 import  {FaReact} from 'react-icons/fa';
 import  {RiGitBranchLine} from 'react-icons/ri'
 import Calendar from '../Calendar/Calendar';
-
+import Statistic from '../Statistic/statistic';
 export default function Skills() {
   return (
     <div className='skills-container' id='Skills'>
@@ -55,7 +55,7 @@ export default function Skills() {
             
         </div>
         {/* <Calendar/> */}
-       
+       <Statistic/>
     </div>
   )
 }

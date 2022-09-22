@@ -13,10 +13,10 @@ export default function Contact() {
     
 
   return (
-    <div className="contact-container" id="Contact">
-      <div className="contact-header">
+    <div className="contact-container" >
+      <div className="contact-header" >
         <Calendar/>
-        <h3>Contact Me</h3>
+        <h3 >Contact Me</h3>
         <p>Let's Keep In Touch</p>
         <span className="header-underline">
           <span className="header-underline1"></span>
@@ -26,7 +26,7 @@ export default function Contact() {
       <div className="contactDetails">
         <div className="contactForm">
           <div className="topCtn">
-            <div className="callBtn btnTp">
+            {/* <div className="callBtn btnTp">
               <FaPhoneAlt />
               <p>PHONE</p>
               <span>Contact me </span>
@@ -35,7 +35,7 @@ export default function Contact() {
                   6200539474
                 </a>
               </p>
-            </div>
+            </div> */}
             <div className="emailBtn btnTp">
               <MdEmail />
               <p>EMAIL</p>
