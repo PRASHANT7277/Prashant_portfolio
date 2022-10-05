@@ -4,7 +4,10 @@
     font-family: 'Poppins', sans-serif;
 }
 #spe{
-    height: 280px;
+    height: 350px;
+}
+#spec{
+    height: 370px;
 }
 .project-header{
     padding-top: 20px;

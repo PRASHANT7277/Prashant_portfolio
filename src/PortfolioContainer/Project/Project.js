@@ -71,7 +71,7 @@ export default function Project() {
 
           {/* card 2 */}
           <div className="project-card">
-            <img src={TannerGoods} alt="" />
+            <img id="spec"  src={TannerGoods} alt="" />
             <div className="card-body">
               <div class="badge">Frontend</div>
               <div className="projectName">Tanner Goods clone</div>
