@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Prashant_portfolio/static/css/main.9dbe2763.css",
-    "main.js": "/Prashant_portfolio/static/js/main.09b5a9c7.js",
+    "main.css": "/Prashant_portfolio/static/css/main.57e2cadf.css",
+    "main.js": "/Prashant_portfolio/static/js/main.951fd56c.js",
     "static/media/tanner.png": "/Prashant_portfolio/static/media/tanner.fc13dba27ae372164535.png",
     "static/media/kimaye.png": "/Prashant_portfolio/static/media/kimaye.e27ed94933e6fe864227.png",
     "static/media/bellavita.png": "/Prashant_portfolio/static/media/bellavita.2eff9024095412c93b0d.png",
@@ -12,11 +12,11 @@
     "static/media/mongo.jpg": "/Prashant_portfolio/static/media/mongo.5ec6ca07514474fe8a51.jpg",
     "static/media/nod.jpg": "/Prashant_portfolio/static/media/nod.89f01839b94dabd69f6f.jpg",
     "index.html": "/Prashant_portfolio/index.html",
-    "main.9dbe2763.css.map": "/Prashant_portfolio/static/css/main.9dbe2763.css.map",
-    "main.09b5a9c7.js.map": "/Prashant_portfolio/static/js/main.09b5a9c7.js.map"
+    "main.57e2cadf.css.map": "/Prashant_portfolio/static/css/main.57e2cadf.css.map",
+    "main.951fd56c.js.map": "/Prashant_portfolio/static/js/main.951fd56c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dbe2763.css",
-    "static/js/main.09b5a9c7.js"
+    "static/css/main.57e2cadf.css",
+    "static/js/main.951fd56c.js"
   ]
 }
