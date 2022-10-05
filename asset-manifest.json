@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Prashant_portfolio/static/css/main.2962e2bb.css",
-    "main.js": "/Prashant_portfolio/static/js/main.8758e418.js",
+    "main.css": "/Prashant_portfolio/static/css/main.9dbe2763.css",
+    "main.js": "/Prashant_portfolio/static/js/main.09b5a9c7.js",
     "static/media/tanner.png": "/Prashant_portfolio/static/media/tanner.fc13dba27ae372164535.png",
     "static/media/kimaye.png": "/Prashant_portfolio/static/media/kimaye.e27ed94933e6fe864227.png",
     "static/media/bellavita.png": "/Prashant_portfolio/static/media/bellavita.2eff9024095412c93b0d.png",
     "static/media/Prashant_Kumar_Resume.pdf": "/Prashant_portfolio/static/media/Prashant_Kumar_Resume.308422741c489aac9f90.pdf",
+    "static/media/pro.jpg": "/Prashant_portfolio/static/media/pro.a144eff6ffa127e109a3.jpg",
+    "static/media/express.jpg": "/Prashant_portfolio/static/media/express.fed355a0b12214eb7feb.jpg",
     "static/media/Prashant.JPG": "/Prashant_portfolio/static/media/Prashant.ae562f4b2248b9275157.JPG",
+    "static/media/mongo.jpg": "/Prashant_portfolio/static/media/mongo.5ec6ca07514474fe8a51.jpg",
+    "static/media/nod.jpg": "/Prashant_portfolio/static/media/nod.89f01839b94dabd69f6f.jpg",
     "index.html": "/Prashant_portfolio/index.html",
-    "main.2962e2bb.css.map": "/Prashant_portfolio/static/css/main.2962e2bb.css.map",
-    "main.8758e418.js.map": "/Prashant_portfolio/static/js/main.8758e418.js.map"
+    "main.9dbe2763.css.map": "/Prashant_portfolio/static/css/main.9dbe2763.css.map",
+    "main.09b5a9c7.js.map": "/Prashant_portfolio/static/js/main.09b5a9c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2962e2bb.css",
-    "static/js/main.8758e418.js"
+    "static/css/main.9dbe2763.css",
+    "static/js/main.09b5a9c7.js"
   ]
 }
