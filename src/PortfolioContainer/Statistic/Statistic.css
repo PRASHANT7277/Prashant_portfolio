@@ -1,6 +1,7 @@
 
   .stat
   {
+    
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-content: space-between;
@@ -30,8 +31,8 @@
     font-weight: 600;
     height: 130px;
     width: 130px;
-    border: 10px solid #506aff;
-    border-radius: 65px;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +42,7 @@
   @media screen and (max-width: 950px){
     .stat
   {
-   
+   background-color: #b5becb;
     grid-template-columns: repeat(2, 1fr);
     margin-left: 20%;
   }
@@ -49,7 +50,7 @@
 
 @media screen and (max-width: 600px){
     .stat
-    {
+    {background-color: #b5becb;
       
       grid-template-columns: repeat(1, 1fr);
       margin-left: 32%;

@@ -3,7 +3,9 @@
     padding-top: 50px;
     font-family: 'Poppins', sans-serif;
 }
-
+#spe{
+    height: 280px;
+}
 .project-header{
     padding-top: 20px;
     text-align: center;
