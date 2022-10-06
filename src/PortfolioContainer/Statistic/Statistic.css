@@ -18,7 +18,7 @@
   .individualStat> div:nth-child(1):hover{
     background-color: #fff;
     transform: scale(1.001);
-    margin-top: -10px;
+    margin-top: -2px;
     transition: .15s ease-in;
     cursor: pointer;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -42,7 +42,7 @@
   @media screen and (max-width: 950px){
     .stat
   {
-   background-color: #b5becb;
+  
     grid-template-columns: repeat(2, 1fr);
     margin-left: 20%;
   }
@@ -50,7 +50,7 @@
 
 @media screen and (max-width: 600px){
     .stat
-    {background-color: #b5becb;
+    {
       
       grid-template-columns: repeat(1, 1fr);
       margin-left: 32%;
