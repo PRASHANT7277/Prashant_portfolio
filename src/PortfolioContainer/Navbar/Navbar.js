@@ -45,68 +45,111 @@ export default function Navbar() {
         }
     })
     });
-  return (  
+  return (
     <>
-    <div className="navMenuBar">
+      <div className="navMenuBar">
         <div className="navMenuContainer">
-            <div className="navMenuLogo">
-                <Link to="Home" spy={true} smooth={true} offset={0} duration={500} >
-                    PK
-                </Link> 
-            </div>
-            <div id="toggleMenuButton" className="toggleMenuButton">
-                <i className="fa fa-bars" id="fabtn" aria-hidden="true" onClick={doSomething}></i>
-            </div>
-            <div className="navMenuBarMain">
-                    <Link to="Home" spy={true} smooth={true} offset={0} duration={500} >
-                        Home
-                    </Link>
-                 
-                    <Link to="About" spy={true} smooth={true} offset={0} duration={500} >
-                        About
-                    </Link>
+          <div className="navMenuLogo">
+            <Link to="Home" spy={true} smooth={true} offset={0} duration={500}>
+              PK
+            </Link>
+          </div>
+          <div id="toggleMenuButton" className="toggleMenuButton">
+            <i
+              className="fa fa-bars"
+              id="fabtn"
+              aria-hidden="true"
+              onClick={doSomething}
+            ></i>
+          </div>
+          <div className="navMenuBarMain">
+            <Link to="Home" spy={true} smooth={true} offset={0} duration={500}>
+              Home
+            </Link>
 
-                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
-                        Skills
-                    </Link>
-                    
-                    <Link to="Projects" spy={true} smooth={true} offset={0} duration={500}>
-                        Projects
-                    </Link>
-                 
-                    
-                    <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
-                        Contact
-                    </Link>
-            </div>
+            <Link to="About" spy={true} smooth={true} offset={0} duration={500}>
+              About
+            </Link>
+
+            <Link
+              to="Skills"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Skills
+            </Link>
+
+            <Link
+              to="Projects"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Projects
+            </Link>
+            <a id="nav_resume"
+              href="https://drive.google.com/file/d/1PVs_HqbLC2EoSVYomORLxeAeq05efZgG/view?usp=sharing"
+              target="blank"
+            >
+              Resume
+            </a>
+            <Link
+              to="Contact"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Contact
+            </Link>
+          </div>
         </div>
         <div id="navMenuCollapsibleMenu" className="InActiveNavMenu">
-                 <div className="navMenuCollapsibleArea">
+          <div className="navMenuCollapsibleArea">
+            <Link to="Home" spy={true} smooth={true} offset={0} duration={500}>
+              Home
+            </Link>
 
-                
-                    <Link to="Home" spy={true} smooth={true} offset={0} duration={500} >
-                        Home
-                    </Link>
-                 
-                    <Link to="About" spy={true} smooth={true} offset={0} duration={500} >
-                        About
-                    </Link>
-                 
-                    <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}>
-                        Skills
-                    </Link>
-                    
-                    <Link to="Projects" spy={true} smooth={true} offset={0} duration={500}>
-                        Projects
-                    </Link>
-                 
-                    
-                     <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
-                        Contact
-                    </Link>
-                </div>
-        </div>   
-    </div>
-    </> 
+            <Link to="About" spy={true} smooth={true} offset={0} duration={500}>
+              About
+            </Link>
+
+            <Link
+              to="Skills"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Skills
+            </Link>
+
+            <Link
+              to="Projects"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Projects
+            </Link>
+
+            
+            <Link
+              to="Contact"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+            >
+              Contact
+            </Link>
+          </div>
+        </div>
+      </div>
+    </>
   );
 }
