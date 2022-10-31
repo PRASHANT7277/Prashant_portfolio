@@ -159,11 +159,11 @@
         height: 80px;
     }
     .resumeButton{
-        margin-left: 120px;
+        margin-left: 80%;
     }
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 420px){
     .profile-picture{
         height: 275px;
         width: 275px;
@@ -181,6 +181,6 @@
         height: 80px;
     }
     .resumeButton{
-        margin-left:170px;
+        margin-left:80%;
     }
 }
