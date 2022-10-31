@@ -113,7 +113,11 @@
     transform: translateY(-1px);
   }
 
- 
+ @media screen and (max-width: 500px){
+.resumeButton2{
+    margin-left: 5%;
+}
+ }
 
 
 

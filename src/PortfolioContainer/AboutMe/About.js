@@ -34,11 +34,11 @@ export default function About() {
                     <div>
                         
                     </div>
-                    <div className="profile-optins resumeBtn">
-                        <a  href={Resume}  download="Prashant_Kumar_Resume" >
+                      <div className="profile-optins resumeBtn">
+                        {/* <a  href={Resume}  download="Prashant_Kumar_Resume" >
                             <button className='resumeButton2'>Get Resume</button>
-                        </a>
-                    </div>
+                        </a> */}
+                    </div>  
                 </div>
             </div>
         </div>

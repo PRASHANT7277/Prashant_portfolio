@@ -159,7 +159,7 @@
         height: 80px;
     }
     .resumeButton{
-        margin-left: 10px;
+        margin-left: 120px;
     }
 }
 
@@ -175,12 +175,12 @@
     .profile-optins .highlighted-btn{
         box-sizing: border-box;
         font-size: 15px;
-        margin: 0 0 0 28px;   
+        margin: 0 0 0 80px;   
     }
     .profile-details-role h1{
         height: 80px;
     }
     .resumeButton{
-        margin-left: 10px;
+        margin-left:170px;
     }
 }
