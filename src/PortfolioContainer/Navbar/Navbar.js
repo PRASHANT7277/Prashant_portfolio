@@ -90,7 +90,8 @@ export default function Navbar() {
             >
               Projects
             </Link>
-            <a id="nav_resume"
+            <a
+              id="nav_resume"
               href="https://drive.google.com/file/d/1PVs_HqbLC2EoSVYomORLxeAeq05efZgG/view?usp=sharing"
               target="blank"
             >
@@ -136,8 +137,14 @@ export default function Navbar() {
             >
               Projects
             </Link>
+            <a
+              id="nav_resume"
+              href="https://drive.google.com/file/d/1PVs_HqbLC2EoSVYomORLxeAeq05efZgG/view?usp=sharing"
+              target="blank"
+            >
+              Resume
+            </a>
 
-            
             <Link
               to="Contact"
               spy={true}

@@ -4,6 +4,21 @@ const statistic = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}> Statistics </h1>
+      <div className="gitstats">
+        <img
+          className="gitimg"
+          src={
+            "https://github-readme-stats.vercel.app/api?username=PRASHANT7277&hide_border=false&include_all_commits=true&count_private=true"
+          }
+        />
+        <img
+          className="gitimg"
+          src={
+            "https://github-readme-streak-stats.herokuapp.com/?user=PRASHANT7277&hide_border=false&include_all_commits=true&count_private=true"
+          }
+        />
+                
+      </div>
 
       <div className="stat">
         <div className="individualStat">
@@ -19,12 +34,7 @@ const statistic = () => {
             <h3>DSA</h3>Problems
           </div>
         </div>
-        <div className="individualStat">
-          <div>300+</div>
-          <div>
-            <h3>Git </h3>commits
-          </div>
-        </div>
+        
 
         <div className="individualStat">
           <div>10+</div>

@@ -12,7 +12,7 @@
     position: fixed;
     width: 100%;
     z-index: 1000;
-    font-size: 25px;
+    font-size: 22px;
 }
 .navMenuBar .navMenuLogo{
     font-size: 35px;
@@ -21,7 +21,7 @@
     cursor: pointer;
 }
 .navMenuBar .toggleMenuButton{
-    font-size: 25px;
+    font-size: 19px;
 }
 
 .navMenuContainer{
@@ -48,7 +48,7 @@
 }
 .navMenuCollapsibleArea{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .navMenuCollapsibleArea a{
     font-size: 13px;
@@ -71,7 +71,7 @@
 .toggleMenuButton{
     display: none;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 770px){
     .navMenuBarMain{
         display: none;
     }

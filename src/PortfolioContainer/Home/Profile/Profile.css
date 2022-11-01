@@ -158,9 +158,9 @@
     .profile-details-role h1{
         height: 80px;
     }
-    .resumeButton{
+    /* .resumeButton{
         margin-left: 80%;
-    }
+    } */
 }
 
 @media screen and (max-width: 420px){
@@ -180,7 +180,15 @@
     .profile-details-role h1{
         height: 80px;
     }
-    .resumeButton{
+    /* .resumeButton{
         margin-left:80%;
+    } */
+    .profile-optins{
+        margin-left: 16%;
+    }
+}
+@media screen and (max-width: 770px){
+    .profile-optins{
+        margin-left: 35%;
     }
 }
