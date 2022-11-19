@@ -26,16 +26,16 @@ export default function Contact() {
       <div className="contactDetails">
         <div className="contactForm">
           <div className="topCtn">
-            {/* <div className="callBtn btnTp">
+            <div className="callBtn btnTp">
               <FaPhoneAlt />
               <p>PHONE</p>
-              <span>Contact me </span>
+              <span>Contact me on phone</span>
               <p className="contactNo">
                 <a href="tel:6200539474" target="_blank">
                   6200539474
                 </a>
               </p>
-            </div> */}
+            </div>
             <div className="emailBtn btnTp">
               <MdEmail />
               <p>EMAIL</p>
