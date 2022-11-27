@@ -27,7 +27,7 @@ export default function Skills() {
                 <div className='skillBox skillbox2'>
                     <div className='sillIcon'><FaReact /></div>
                     <div className='skillTitle'>Web frameworks</div>
-                    <div className='skillInfo'>React, Node.js, Express.js</div>
+                    <div className='skillInfo'>React, NextJs, Nodejs, Expressjs</div>
                 </div>
                 <div className='skillBox skillbox3'>
                     <div className='sillIcon'><SiChakraui color='blue'/></div>
