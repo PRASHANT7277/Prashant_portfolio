@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Prashant_portfolio/static/css/main.19d3e86e.css",
-    "main.js": "/Prashant_portfolio/static/js/main.8e9a036b.js",
+    "main.js": "/Prashant_portfolio/static/js/main.0098d8cc.js",
     "static/media/tanner.png": "/Prashant_portfolio/static/media/tanner.fc13dba27ae372164535.png",
     "static/media/take.png": "/Prashant_portfolio/static/media/take.4675657dcdd584004224.png",
     "static/media/kimaye.png": "/Prashant_portfolio/static/media/kimaye.e27ed94933e6fe864227.png",
     "static/media/bellavita.png": "/Prashant_portfolio/static/media/bellavita.2eff9024095412c93b0d.png",
-    "static/media/Prashant_Kumar_Resume.pdf": "/Prashant_portfolio/static/media/Prashant_Kumar_Resume.386fe29f72c5dcb446d1.pdf",
+    "static/media/Prashant_Kumar_Resume.pdf": "/Prashant_portfolio/static/media/Prashant_Kumar_Resume.cec1fc6f537b390564b9.pdf",
     "static/media/pro.jpg": "/Prashant_portfolio/static/media/pro.a144eff6ffa127e109a3.jpg",
     "static/media/redux.png": "/Prashant_portfolio/static/media/redux.0372b5c6c51fd6ff4291.png",
     "static/media/next.png": "/Prashant_portfolio/static/media/next.24de9aaeeac720c6f9c8.png",
@@ -17,10 +17,10 @@
     "static/media/nod.jpg": "/Prashant_portfolio/static/media/nod.89f01839b94dabd69f6f.jpg",
     "index.html": "/Prashant_portfolio/index.html",
     "main.19d3e86e.css.map": "/Prashant_portfolio/static/css/main.19d3e86e.css.map",
-    "main.8e9a036b.js.map": "/Prashant_portfolio/static/js/main.8e9a036b.js.map"
+    "main.0098d8cc.js.map": "/Prashant_portfolio/static/js/main.0098d8cc.js.map"
   },
   "entrypoints": [
     "static/css/main.19d3e86e.css",
-    "static/js/main.8e9a036b.js"
+    "static/js/main.0098d8cc.js"
   ]
 }
